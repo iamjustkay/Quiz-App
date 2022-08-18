@@ -1,0 +1,179 @@
+1.The correct sequence of HTML tags for starting a webpage is - *
+Head, Title, HTML, body
+HTML, Body, Title, Head
+HTML, Head, Title, Body
+HTML, Head, Title, Script
+
+2.Which of the following element is responsible for making the text bold in HTML? *
+<pre>
+<a>
+<b>
+<br>
+
+3.Which of the following tag is used for inserting the largest heading in HTML? *
+<h3>
+<h1>
+<h5>
+<h6>
+
+4.How to create an unordered list (a list with the list items in bullets) in HTML? *
+<ul>
+<ol>
+<li>
+<i>
+
+5.Which character is used to represent the closing of a tag in HTML? *
+\
+!
+/
+.
+
+6.How to create a hyperlink in HTML? *
+<a href = "https://docs.google.com/"> google </a>
+<a url = "https://docs.google.com/"google/a>
+<a link = "https://docs.google.com/"> google</a>
+<a>https://docs.google.com/ <google /a>
+
+7.How to create an ordered list (a list with the list items in numbers) in HTML? *
+<ul>
+<ol>
+<li>
+<i>
+
+8.Which of the following element is responsible for making the text italic in HTML? *
+<i>
+<italic>
+<it>
+<pre>
+
+9.How to insert an image in HTML? *
+<img href = "jtp.png" />
+<img url = "jtp.png" />
+<img link = "jtp.png" />
+<img src = "jtp.png" />
+
+10. <input> is *
+a format tag.
+an empty tag.
+All of the above
+None of the above
+
+11. Which of the following tag is used to make the underlined text? *
+<i>
+<ul>
+<u>
+<pre>
+
+12. How to create a checkbox in HTML? *
+<input type = "checkbox">
+<input type = "button">
+<checkbox>
+<input type = "check">
+
+13.Which of the following tag is used to define options in a drop-down selection list? *
+<select>
+<list>
+<dropdown>
+<option>
+
+14.HTML tags are enclosed in- *
+# and #
+{ and }
+! and ?
+< and >
+
+15.Which of the following is the correct way to change the font face in HTML? *
+<font name = "Calibri"> ……… </font>
+<font face = "Calibri"> ……… </font>
+<font = "Calibri"> ……… </font>
+None of the above
+
+16.Which of the following tag is used to add rows in the table? *
+<td> and </td>
+Option 2
+<tr> and </tr>
+None of the above
+
+17.Which HTML tag is used to display the power in expression, i.e., (x2 - y2)? *
+<sup>
+<sub>
+p>
+None of the above
+
+18.Which is the correct way to comment out something in HTML? *
+Using ## and #
+Using <!-- and -->
+Using </-- and -/->
+Using <!-- and -!>
+
+19.Which of the following are the attributes of the tag? *
+method
+action
+Both (a) & (b)
+None of the above
+
+20.Which of the following tag is used to create a combo box (or drop-down box)? *
+<list>
+<select>
+<input type = "dropdown">
+<ul>
+
+21.In HTML5, which of the following tag is used to initialize the document type? *
+<Doctype HTML>
+<\Doctype html>
+<Doctype>
+<!DOCTYPE html>
+
+22.A program in HTML can be rendered and read by -
+Web browser
+Server
+Interpreter
+None of the above
+
+23.An HTML program is saved by using the ____ extension. *
+.ht
+.html
+.hml
+None of the above
+
+24. Which of the following HTML attribute is used to define inline styles? *
+style
+type
+class
+None of the above
+
+25.Which of the following is the container for <tr>, <th>, and <td> ? *
+<data>
+<table>
+<group>
+All of the above
+
+26.What is the first step in the Design Thinking Process? *
+Ideate
+Empathize
+Define
+Prototype
+
+27.After you define the problem, the next step is to ____. *
+Test
+Ideate
+Prototype
+Empathize
+
+28.You would interview people to gain an understanding of how they feel during the ____ stage of Design Thinking. *
+Prototype
+Define
+Empathize
+Ideate
+
+29. During which stage would you: Write a problem statement focused on a specific need or goal. *
+Prototype
+Define
+Ideate
+Empathize
+
+30.What are the steps of Design Thinking Process?
+Understand > Draw > Ideate > Create > Test
+Empathise > Define > Ideate > Prototype > Test
+Empathise > Design > Implement > Produce > Test
+Understand > Define > Ideate > Produce > Try
